@@ -34,14 +34,17 @@ Now attach:
 
 ![Battle bot](./images/battlebot_4.jpg)
 
-* Add the batteries to the battery pack
-* Now move the battery pack and the breadboard onto the chassis. Stick them using double sided tape and tick-tack.
+Now:
+
+	* add the batteries to the battery pack
+	* move the battery pack and the breadboard onto the chassis. Stick them using double sided tape and tick-tack.
 
 ![Battle bot](./images/battlebot_5.jpg)
 
 Attach:
-* the white servo wires to the Arduino, to pins 12 & 13
-* the ground wires from the Servos to ground on the Arduino.
+	
+	* the white servo wires to the Arduino, to pins 12 & 13
+	* the ground wires from the Servos to ground on the Arduino.
 
 Attach you Nodebot to the laptop and take it for a spin.
 
