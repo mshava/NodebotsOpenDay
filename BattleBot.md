@@ -4,11 +4,20 @@ Here is what you will be building...
 
 ![Battle bot](./images/battlebot_done.jpg)
 
-Attach the Arduino to the chassis - make sure the green dot is on top.
+This are all the parts that you will be using.
+
+To name a few:
+
+* 2x Servos, the black blocks are the engines
+* The Arduino, is the brain - this is a micro controller
+* A cable to attach it to the PC 
+* AA batteries & a battery holder
 
 ![Battle bot](./images/battlebot_1.jpg)
 
-Attach the servos - to the bottom of the chassis using the 2 cable ties
+Attach:
+  * the Arduino to the chassis - make sure the green dot is on top.
+  * the servos - to the bottom of the chassis using the 2 cable ties
 
 ![Battle bot](./images/battlebot_2.jpg)
 
@@ -16,9 +25,10 @@ Attach the omni wheel using the screws supplied, there are 2 holes underneath th
 
 ![Battle bot](./images/battlebot_3.jpg)
 
-* Attach the wheels to the servos
-* Attach the battery pack to the breadboard, now attach the servo wires to the breadboard make sure the red 
-and black wires are attached correctly on the breadboard.
+Now attach:
+* the wheels to the servos
+* the battery pack to the breadboard
+* attach the servo wires to the breadboard, make sure the red and black wires are attached correctly on the breadboard.
 
 ![Battle bot](./images/battlebot_4.jpg)
 
@@ -27,8 +37,9 @@ and black wires are attached correctly on the breadboard.
 
 ![Battle bot](./images/battlebot_5.jpg)
 
-* Attach the white servo wires to the Arduino, to pins 12 & 13
-* Attach the ground wires from the Servos to ground on the Arduino.
+Attach:
+* the white servo wires to the Arduino, to pins 12 & 13
+* the ground wires from the Servos to ground on the Arduino.
 
 Attach you Nodebot to the laptop and take it for a spin.
 
