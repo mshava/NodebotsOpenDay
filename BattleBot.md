@@ -8,10 +8,10 @@ This are all the parts that you will be using.
 
 To name a few:
 
-* 2x Servos, the black blocks are the engines
-* The Arduino, is the brain - this is a micro controller
-* A cable to attach it to the PC 
-* AA batteries & a battery holder
+	* 2x Servos, the black blocks are the engines
+	* The Arduino, is the brain - this is a micro controller
+	* A cable to attach it to the PC 
+	* AA batteries & a battery holder
 
 ![Battle bot](./images/battlebot_1.jpg)
 
@@ -20,15 +20,17 @@ Attach the Arduino to the chassis, make sure the green dot is on top.
 ![Battle bot](./images/battlebot_2.jpg)
 
 Attach:
+
 	* the servos - to the bottom of the chassis using the 2 cable ties
 	* the omni wheel using the screws supplied, there are 2 holes underneath the chassis for attaching it.
 
 ![Battle bot](./images/battlebot_3.jpg)
 
 Now attach:
-* the wheels to the servos
-* the battery pack to the breadboard
-* attach the servo wires to the breadboard, make sure the red and black wires are attached correctly on the breadboard.
+
+	* the wheels to the servos
+	* the battery pack to the breadboard
+	* attach the servo wires to the breadboard, make sure the red and black wires are attached correctly on the breadboard.
 
 ![Battle bot](./images/battlebot_4.jpg)
 
