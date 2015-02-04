@@ -15,13 +15,13 @@ To name a few:
 
 ![Battle bot](./images/battlebot_1.jpg)
 
-Attach:
-  * the Arduino to the chassis - make sure the green dot is on top.
-  * the servos - to the bottom of the chassis using the 2 cable ties
+Attach the Arduino to the chassis, make sure the green dot is on top.
 
 ![Battle bot](./images/battlebot_2.jpg)
 
-Attach the omni wheel using the screws supplied, there are 2 holes underneath the chassis for attaching it.
+Attach:
+	* the servos - to the bottom of the chassis using the 2 cable ties
+ 	* the omni wheel using the screws supplied, there are 2 holes underneath the chassis for attaching it.
 
 ![Battle bot](./images/battlebot_3.jpg)
 
