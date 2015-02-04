@@ -56,3 +56,8 @@ Now add scoop to ready for battle:
 	* Attach it on the opposite end of the omni wheel
 	* Then add the scoop itself with 2 bigger cables ties, be sure not to attach the scoop to high.
 
+It should look like this remember:
+
+![Battle bot](./images/battlebot_done.jpg)
+
+
