@@ -48,7 +48,7 @@ Attach:
 
 Attach you Nodebot to the laptop and take it for a spin.
 
-To run it use this command : ```node battlebot.js```
+To run it use this command : ```sudo node battle-bot.js```
 	
 Now add scoop to ready for battle:
 
