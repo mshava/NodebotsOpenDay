@@ -24,10 +24,13 @@ how the attached wheels should look
 sensor holes
 
 ![Wall bot](./images/Wallbot 8 Add Sensor.jpeg)
-1. Insert ultrasonic sensor into the two holes on the front side of the chassis with the pins facing up.
-2.Wire the ultrasonic sensor:
-	1.	 a small green y-shaped wire goes to the middle two pins .
-	2.	There are two other wires that attach to the outer two pins
+
+### Distance sensor
+
+* Insert the distance sensor into the two holes on the front side of the chassis with the pins facing up.
+* Wire the ultrasonic sensor:
+	* a small green y-shaped wire goes to the middle two pins .
+	* there are two other wires that attach to the outer two pins
 	
 
 ![Wall bot](./images/Wallbot 9 Breadboard.jpeg)
@@ -35,8 +38,9 @@ sensor holes
 ![Wall bot](./images/Wallbot 10 Breadboard.jpeg)
 
 ![Wall bot](./images/Wallbot 11 Breadboard wires.jpeg)
+
 1.Attach the Orange and Yellow jumper wires onto the breadboard as in the photo
-2.Now attach the motor's cables to the breadboard just inside the  two wires added above
+2.	Now attach the motor's cables to the breadboard just inside the  two wires added above
 3.	Now attach the battery packs positive wire (red) to the last pin of the IC – see the red wire on the right in the photo
 4.	Attach the ground (black wire) of the battery pack to the second row on the breadboard from the left – see black wire on    the photo
 5.	Now attach a black & red jumper wires – to be attached to the Arduino, red in the first row and black in the next row.  
