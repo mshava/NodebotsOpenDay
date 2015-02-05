@@ -38,24 +38,26 @@ The motor driver is installed on a breadboard to which you need to attach some w
 
 ![Wall bot](./images/Wallbot 10 Breadboard.jpeg)
 
-Attach the Orange and Yellow jumper wires onto the breadboard as in the photo.
 
 ![Wall bot](./images/Wallbot 11 Breadboard wires.jpeg)
 
-Now attach the motor's cables to the breadboard just inside the  two wires added above
+Attach the Orange and Yellow jumper wires onto the breadboard as in the photo.
 	
 ![Wall bot](./images/Wallbot 12 Breadboard wires.jpeg)
 
-Now attach the battery packs positive wire (red) to the last pin of the IC – see the red wire on the right in the photo
+Now attach the motor's cables to the breadboard just inside the  two wires added above
 
 ![Wall bot](./images/Wallbot 13 Breadboard wires.jpeg)
 
-Attach the ground (black wire) of the battery pack to the second row on the breadboard from the left – see black wire on    the photo
+Now attach the battery packs positive wire (red) to the last pin of the IC – see the red wire on the right in the photo
 
 ![Wall bot](./images/Wallbot 14 Breadboard complete.jpg)
+
+Attach the ground (black wire) of the battery pack to the second row on the breadboard from the left – see black wire on    the photo
+
+![Wall bot](./images/Wallbot 15 Assemble.jpeg)
 
 Now attach a black & red jumper wires – to be attached to the Arduino, red in the first row and black in the next row.  
 
 Once the motor driver is wired up attach it with the battery pack to the chassis using tick tack or double sided tape.
 
-![Wall bot](./images/Wallbot 15 Assemble.jpeg)
