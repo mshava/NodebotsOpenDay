@@ -2,7 +2,7 @@
 
 ![Wall bot](./images/Wallbot 15 Assemble.jpg)
 
-![Wall bot](./images/Wallbot 1 Chassis.jpg)
+![Wall bot](./images/Wallbot1_Chassis.jpg)
 
 ![Wall bot](./images/Wallbot 1 Chassis.jpg)
 
