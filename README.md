@@ -11,5 +11,10 @@ If any of the instructions doesn't make any sense, ask a mentor.
 
 ## Usefull commands:
   * ```git pull``` in the NodebotsOpenDay folder to get updated instructions
+ 
+## Bots to built:
+
+[Wall bot](./wall-bot.md)
+[Battle bot](./battlebot.md)
 
 
