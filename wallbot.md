@@ -53,11 +53,10 @@ Now attach the battery packs positive wire (red) to the last pin of the IC – s
 
 ![Wall bot](./images/Wallbot 14 Breadboard complete.jpg)
 
-Attach the ground (black wire) of the battery pack to the second row on the breadboard from the left – see black wire on    the photo
+* Attach the ground (black wire) of the battery pack to the second row on the breadboard from the left – see black wire on    the photo
+* Now attach a black & red jumper wires – to be attached to the Arduino, red in the first row and black in the next row.  
+* Once the motor driver is wired up attach it with the battery pack to the chassis using tick tack or double sided tape.
 
 ![Wall bot](./images/Wallbot 15 Assemble.jpeg)
 
-Now attach a black & red jumper wires – to be attached to the Arduino, red in the first row and black in the next row.  
-
-Once the motor driver is wired up attach it with the battery pack to the chassis using tick tack or double sided tape.
-
+When you are done it should look like the following
