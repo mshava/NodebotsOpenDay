@@ -14,7 +14,7 @@ If any of the instructions doesn't make any sense, ask a mentor.
  
 ## Bots to built:
 
-[Wall bot](./wall-bot.md)
-[Battle bot](./battlebot.md)
+* [Wall bot](./wall-bot.md) - if your pack contains a yellow motor
+* [Battle bot](./battlebot.md)
 
 
