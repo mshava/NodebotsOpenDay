@@ -1,0 +1,22 @@
+{
+  "name": "NodebotsOpenDay",
+  "version": "0.0.0",
+  "description": "",
+  "main": "box-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codex-academy/NodebotsOpenDay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codex-academy/NodebotsOpenDay/issues"
+  },
+  "homepage": "https://github.com/codex-academy/NodebotsOpenDay",
+  "dependencies": {
+    "array-extended": "0.0.11"
+  }
+}
